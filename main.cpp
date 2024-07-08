@@ -9,7 +9,7 @@ int main() {
     cout << "Enter the number of hours worked: ";
     cin >> hours;
 
-    cout << "Enter the hourly pay rate: ";
+    cout << "Enter the per hour pay rate: ";
     cin >> rate;
 
     gross = hours * rate;
